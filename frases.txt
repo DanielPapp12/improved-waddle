@@ -1,2 +1,5 @@
 frases do git 
 treinamento 
+
+
+alteração do texto para novo commit
